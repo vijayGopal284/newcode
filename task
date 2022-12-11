@@ -1,0 +1,6 @@
+"Take an input from the user and find out whether the number is even or odd"
+a = int(input())
+if a%2==0:
+    print("Given number is even :"," ")8
+else:
+    print("Given number is odd :"," ")

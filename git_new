@@ -1,0 +1,5 @@
+def sum (a,b):
+    total=a+b
+    return total
+v=sum(8,9)
+print(v)
